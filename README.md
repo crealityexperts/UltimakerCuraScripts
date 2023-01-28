@@ -40,9 +40,9 @@ From the pop up a list of available plugins, select `Create V2Neo Thumbnail`. On
 
 ![Thumbnail Plugin](doc/ThumbnailParam.png)
 
-Finally close the dialog.
+Finally, close the dialog.
 
-## Slice your
+## Slice your file
 
 Slice your object and save to SD card.
 
